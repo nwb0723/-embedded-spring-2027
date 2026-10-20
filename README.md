@@ -52,7 +52,7 @@ embedded spring plan and project commit
 ### 第 1 周（10.20 – 10.26）：仓库搭建 + GPIO
 
 - [x] 建仓库，6 个目录，README 初版
-- [ ] 开发环境记录（工具链版本、编译命令、烧录步骤）→ `05_docs/01_开发环境.md`
+- [ ] 开发环境记录（工具链版本、编译命令、烧录步骤）→ `06_docs/01_开发环境.md`
 - [ ] `01_bare_metal/01_gpio_led`：寄存器版点灯
 - [ ] 写清该实验的接线表 + 预期现象 + 关键寄存器说明
 - [ ] 周日复盘：本周实际投入 __ h，未完成项原因 __
@@ -61,7 +61,7 @@ embedded spring plan and project commit
 
 - [ ] 按键消抖（软件延时版 + 定时器版）
 - [ ] 外部中断 EXTI 配置与回调
-- [ ] 记录一次「中断里加延时导致卡死」的排查过程 → `00_notes/`
+- [ ] 记录一次「中断里加延时导致卡死」的排查过程 → `01_notes/`
 - [ ] 复盘
 
 ### 第 3 周（11.03 – 11.09）：UART
@@ -84,7 +84,7 @@ embedded spring plan and project commit
 
 | 目录 | 内容 | 入口 |
 |---|---|---|
-| `01_notes/` | 学习笔记、调试记录、代码片段 | [笔记](src/01_note/) |
+| `01_notes/` | 学习笔记、调试记录、代码片段 | [笔记](src/01_notes/) |
 | `02_bare_metal/` | 裸机外设实验（寄存器级） | [裸机](src/02_bare_metal/) |
 | `03_rtos/` | FreeRTOS 机制实验与移植 | [RTOS](src/03_rtos/) |
 | `04_protocol/` | 通信协议驱动与帧格式说明 | [协议](src/04_protocol/) |

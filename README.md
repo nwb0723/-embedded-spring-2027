@@ -84,7 +84,7 @@ embedded spring plan and project commit
 
 | 目录 | 内容 | 入口 |
 |---|---|---|
-| `01_notes/` | 学习笔记、调试记录、代码片段 | [笔记](src/01_notes/) |
+| `01_notes/` | 学习笔记、调试记录、代码片段 | [笔记](src/01_note/) |
 | `02_bare_metal/` | 裸机外设实验（寄存器级） | [裸机](src/02_bare_metal/) |
 | `03_rtos/` | FreeRTOS 机制实验与移植 | [RTOS](src/03_rtos/) |
 | `04_protocol/` | 通信协议驱动与帧格式说明 | [协议](src/04_protocol/) |

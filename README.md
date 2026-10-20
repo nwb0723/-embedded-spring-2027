@@ -1,8 +1,7 @@
+
 # embedded-spring-2027
 embedded spring plan and project commit
 此仓库是个人准备2027春招的计划与个人项目实现的说明
-# embedded-spring-2027
-
 2027 春招嵌入式软件岗备战仓库：裸机 → RTOS → 通信协议 → 综合项目，全部产出可编译、可演示。
 ## 一、目标
 

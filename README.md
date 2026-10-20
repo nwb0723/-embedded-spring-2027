@@ -84,12 +84,12 @@ embedded spring plan and project commit
 
 | 目录 | 内容 | 入口 |
 |---|---|---|
-| `01_notes/` | 学习笔记、调试记录、代码片段 | [笔记](01_notes/) |
-| `02_bare_metal/` | 裸机外设实验（寄存器级） | [裸机](02_bare_metal/) |
-| `03_rtos/` | FreeRTOS 机制实验与移植 | [RTOS](03_rtos/) |
-| `04_protocol/` | 通信协议驱动与帧格式说明 | [协议](04_protocol/) |
-| `05_projects/` | 综合项目（源码+硬件+演示） | [项目](05_projects/) |
-| `06_docs/` | 环境、引脚总表、术语、参考资料 | [文档](06_docs/) |
+| `01_notes/` | 学习笔记、调试记录、代码片段 | [笔记](src/01_notes/) |
+| `02_bare_metal/` | 裸机外设实验（寄存器级） | [裸机](src/02_bare_metal/) |
+| `03_rtos/` | FreeRTOS 机制实验与移植 | [RTOS](src/03_rtos/) |
+| `04_protocol/` | 通信协议驱动与帧格式说明 | [协议](src/04_protocol/) |
+| `05_projects/` | 综合项目（源码+硬件+演示） | [项目](src/05_projects/) |
+| `06_docs/` | 环境、引脚总表、术语、参考资料 | [文档](src/06_docs/) |
 
 ## 五、当前进度
 
